@@ -60,8 +60,7 @@ python main.py
 * Focused on clarity and real-world usability
 
 
-## 🔗 Future Improvements<img width="811" height="492" alt="Screenshot 2026-04-24 153054" src="https://github.com/user-attachments/assets/630f3e4e-acc4-46b5-bda4-cdc5a9d32594" />
-
+## 🔗 Future Improvements
 * Real-time log monitoring
 * Support for system logs (auth.log)
 * Alert filtering and dashboard features
