@@ -1,4 +1,4 @@
-# AI Security Alert Analyzer
+# AI Powered Security Alert Analyzer
 A Python-based security monitoring tool that analyzes authentication logs, detects suspicious activity, and generates concise AI-powered insights.
 
 
@@ -64,3 +64,5 @@ python main.py
 * Real-time log monitoring
 * Support for system logs (auth.log)
 * Alert filtering and dashboard features
+
+https://github.com/zibdrs83/AI-Powered-Security-Alert-Analyzer.git
